@@ -1,0 +1,4 @@
+enquirejs:
+  version: 1.x
+  js:
+    node_modules/enquire.js/dist/enquire.js: {}
