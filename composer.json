@@ -1,6 +1,6 @@
 {
   "name": "dennisdigital/enquirejs",
-  "type": "module",
+  "type": "drupal-module",
   "description": "Drupal module for Enquire JS library",
   "homepage": "https://didev.kilnhg.com/Code/Drupal-modules/Contrib/enquirejs.git"
 }
