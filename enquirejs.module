@@ -1,5 +1,16 @@
 <?php
 
-function enquirejs_page_attachments(&$page) {
+/**
+ * @file
+ * Module for enquirejs.
+ */
+
+/**
+ * Implements hook_page_attachments().
+ *
+ * @param array $page
+ *   Page array.
+ */
+function enquirejs_page_attachments(array &$page) {
   $page['#attached']['library'][] = 'enquirejs/enquirejs';
 }

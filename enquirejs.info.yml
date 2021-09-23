@@ -2,7 +2,7 @@ type: module
 name: Enquire JS
 description: 'Downloads Enquire JS and includes it on the page'
 package: Libraries
-core: 8.x
+core_version_requirement: ^8 || ^9 || ^10
 
 
 libraries:
